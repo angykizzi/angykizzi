@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Angely Escafuller</h1>
 <h3 align="center">A passionate full stack developer from Venezuela</h3>
 
-- 🔭 I’m currently working on [appdoptame](https://github.com/angykizzi/App-Doptame)
+- 🔭 I’m currently working on [CRM](https://github.com/enderNT/CRM-Front)
 
 - 🌱 I’m currently learning **bootstrap, react, typescript**
 
